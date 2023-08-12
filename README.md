@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avishkar Auti</h1>
-<h3 align="center">A versatile and collaborative professional with a passion for technology and innovation</h3>
+<h3 align="center">A passion for technology and innovation </h3>
+<h2 align="center">Tech Explorer | Java | Data Science | Open-Source </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkar-auti&label=Profile%20views&color=0e75b6&style=flat" alt="avishkar-auti" /> </p>
 
