@@ -13,7 +13,7 @@
 - 📫 How to reach me **avishkar.auti@gmail.com**
 
 - ⚡ Fun fact **I like to imagine galaxies in my coffee ☕🌌**
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
