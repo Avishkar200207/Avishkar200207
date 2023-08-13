@@ -2,7 +2,7 @@
 <h3 align="center">A passion for technology and innovation </h3>
 <h4 align="center">Tech Explorer | Java | Data Science | Open-Source </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishkar-auti&label=Profile%20views&color=0e75b6&style=flat" alt="avishkar-auti" /> </p>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Exploring ML, Cloud, and Node Realms 🌦️**<br><br>- 👯 Embarking on a Code Adventure: **Seeking Open-Source Collaborations 🚀🔗**<br><br>- 📝 I regularly write articles on Data Science [https://medium.com/@avishkar2002auti](https://medium.com/@avishkar2002auti)<br><br>- 📫 How to reach me **avishkar.auti@gmail.com**<br><br>- ⚡ Fun fact **I like to imagine galaxies in my coffee ☕🌌**<br>
