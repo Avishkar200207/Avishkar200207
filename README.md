@@ -1,4 +1,3 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=avishkar-auti.visitor-badge)
 <h1 align="center">Hi 👋, I'm Avishkar Auti</h1>
 <h3 align="center">A passion for technology and innovation </h3>
 <h4 align="center">Tech Explorer | Java | Data Science | Open-Source </h4>
