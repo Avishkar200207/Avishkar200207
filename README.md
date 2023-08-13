@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 <h1 align="center">Hi 👋, I'm Avishkar Auti</h1>
 <h3 align="center">A passion for technology and innovation </h3>
 <h4 align="center">Tech Explorer | Java | Data Science | Open-Source </h4>
